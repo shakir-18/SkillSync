@@ -1,4 +1,4 @@
 package com.hackathon.SkillSync.controller;
 
-public class EmployeeController {
+public class LearningPlannerController {
 }
